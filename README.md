@@ -38,12 +38,12 @@ Note: cơ sở dữ liệu sinh viên tự tạo.
 
 # [**How to run**](#how-to-run)
 
-	Để chạy được chương trình này, các bạn cần phải có SQL Server. Mở nó lên và tạo một cơ sở dữ liệu có tên `LTM_GK` và chép nội dung của tệp tin script để tạo cơ sở dữ liệu.
+Để chạy được chương trình này, các bạn cần phải có SQL Server. Mở nó lên và tạo một cơ sở dữ liệu có tên `LTM_GK` và chép nội dung của tệp tin script để tạo cơ sở dữ liệu.
 	
-	Những thông tin khác như cổng, tài khoản để tham gia thì chúng mình đã lưu mặc định lại không cần thay đổi gì.
+Những thông tin khác như cổng, tài khoản để tham gia thì chúng mình đã lưu mặc định lại không cần thay đổi gì.
 	
-	Mở SQL Server Configuration Manager -> SQL Server Network Configuration -> Protocol for SERVER. Đảm bảo TCP/IP đã được bật nhé.
+Mở SQL Server Configuration Manager -> SQL Server Network Configuration -> Protocol for SERVER. Đảm bảo TCP/IP đã được bật nhé.
 	
 # [**Post Script**](#post-script)
 	
-	Do đây là đề tài giữa kì chỉ xoay quanh kiến thức về TCP hoặc UDP nên khá đơn giản. Hy vọng phần bài làm của nhóm chúng mình sẽ có ích cho các bạn đang đọc bài viết này.
+Do đây là đề tài giữa kì chỉ xoay quanh kiến thức về TCP hoặc UDP nên khá đơn giản. Hy vọng phần bài làm của nhóm chúng mình sẽ có ích cho các bạn đang đọc bài viết này.
